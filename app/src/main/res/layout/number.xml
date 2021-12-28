@@ -13,6 +13,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="30dp"
         android:text="@string/_sape"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView20"
         app:layout_constraintTop_toBottomOf="@+id/textView18" />
@@ -24,6 +25,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="30dp"
         android:text="@string/_0"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView19"
         app:layout_constraintTop_toBottomOf="@+id/textView17" />
@@ -35,6 +37,7 @@
         android:layout_marginStart="72dp"
         android:layout_marginTop="30dp"
         android:text="@string/_star"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView16" />
@@ -46,6 +49,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="30dp"
         android:text="@string/_9"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView17"
         app:layout_constraintTop_toBottomOf="@+id/textView15" />
@@ -57,6 +61,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="30dp"
         android:text="@string/_8"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView16"
         app:layout_constraintTop_toBottomOf="@+id/textView14" />
@@ -68,6 +73,7 @@
         android:layout_marginStart="68dp"
         android:layout_marginTop="30dp"
         android:text="@string/_7"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView10" />
@@ -79,6 +85,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="30dp"
         android:text="@string/_6"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView14"
         app:layout_constraintTop_toBottomOf="@+id/textView11" />
@@ -90,6 +97,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="30dp"
         android:text="@string/_5"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView10"
         app:layout_constraintTop_toBottomOf="@+id/textView12" />
@@ -100,7 +108,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="71dp"
         android:layout_marginTop="25dp"
+        android:background="#FFFFFF"
         android:text="@string/_1"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView19" />
@@ -112,6 +122,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="25dp"
         android:text="@string/_2"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView13"
         app:layout_constraintTop_toBottomOf="@+id/imageView19" />
@@ -123,6 +134,7 @@
         android:layout_marginStart="99dp"
         android:layout_marginTop="25dp"
         android:text="@string/_3"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toEndOf="@+id/textView12"
         app:layout_constraintTop_toBottomOf="@+id/imageView19" />
@@ -155,6 +167,7 @@
         android:layout_marginStart="68dp"
         android:layout_marginTop="30dp"
         android:text="@string/_4"
+        android:textColor="#000000"
         android:textSize="48sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView13" />
